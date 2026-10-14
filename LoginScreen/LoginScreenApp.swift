@@ -2,7 +2,7 @@
 //  LoginScreenApp.swift
 //  LoginScreen
 //
-//  Created by Sergio Andres Rodriguez Castillo on 13/10/26.
+//  Created by Sergio Rodriguez on 13/10/26.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct LoginScreenApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
